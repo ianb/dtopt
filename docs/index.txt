@@ -15,3 +15,7 @@ by doing::
 
 (The options ``NORMALIZE_WHITESPACE`` and ``COMPARE`` are also
 available)
+
+You can install this from `the subversion repository
+<http://svn.colorstudy.com/dtopt/trunk/#egg=dtopt-dev>`_ with
+``easy_install dtopt==dev``.
