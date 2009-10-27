@@ -16,6 +16,7 @@ by doing::
 (The options ``NORMALIZE_WHITESPACE`` and ``COMPARE`` are also
 available)
 
-You can install this from `the subversion repository
-<http://svn.colorstudy.com/dtopt/trunk/#egg=dtopt-dev>`_ with
+You can install this from `the Mercurial repository
+<http://bitbucket.org/ianb/dtopt>`_ with the `tip tarball
+<http://bitbucket.org/ianb/dtopt/get/tip.gz#egg=dtopt-dev>`_ with
 ``easy_install dtopt==dev``.
